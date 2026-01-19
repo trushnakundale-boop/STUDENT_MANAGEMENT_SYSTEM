@@ -39,7 +39,7 @@ Student_Management_System/
 
 ▶️ How to Run the Project
 1. Clone the repository
-git clone 
+git clone https://github.com/trushnakundale-boop/STUDENT_MANAGEMENT_SYSTEM
 
 2. Go to project folder
 cd Student_Management_System
